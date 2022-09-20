@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: #11116a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fa-mug-hot{
+    color: #fff;
+    font-size: 5rem;
+    margin-bottom: 10px;
+}
+.fa-users{
+    color: #fff;
+    font-size: 5rem;
+    margin-bottom: 10px;
+}
+.fa-tasks{
+    color: #fff;
+    font-size: 5rem;
+    margin-bottom: 10px;
+}
+span{
+    color: #fff;
+    font-size: 1rem;
+    letter-spacing: 2px;
+   
+}
+.content{
+    margin: 0px 50px;
+    text-align: center;
+}
+.counter{
+    font-size: 8rem;
+    color: #e8bd23;
+}
